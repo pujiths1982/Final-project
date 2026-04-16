@@ -1,0 +1,6 @@
+.vscode/
+yolo12n.pt
+__pycache__/
+*.pyc
+.venv/
+
